@@ -1,0 +1,24 @@
+p {
+    text-align: justify;
+}
+
+.bold-medellin {
+    color:rgb(28, 190, 17);
+}
+
+a {
+    
+    text-decoration: none;
+}
+
+.bold-medellin_link{
+    color: rgb(255, 0, 200);
+}
+
+.img-contianer {
+    max-width: 100%;;
+}
+
+.img-picture {
+    width: 100%;
+}
